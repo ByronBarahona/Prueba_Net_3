@@ -1,0 +1,23 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="wwwroot\Imagenes\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="wwwroot\Imagenes\Call_Of_Duty.jpg" />
+    <None Include="wwwroot\Imagenes\GTAV.jpg" />
+    <None Include="wwwroot\Imagenes\PC_Gamer.jpg" />
+    <None Include="wwwroot\Imagenes\PS5.jpg" />
+    <None Include="wwwroot\Imagenes\Pubg.jpg" />
+    <None Include="wwwroot\Imagenes\Switch.jpg" />
+    <None Include="wwwroot\Imagenes\xbox.jpg" />
+  </ItemGroup>
+
+</Project>
