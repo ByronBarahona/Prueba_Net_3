@@ -1,0 +1,52 @@
+﻿@if (User.IsInRole("Administrador"))
+{
+    <h1>Videojuegos</h1>
+
+    <!-- Botón para mostrar el formulario de creación -->
+    <button id="btnAdd" class="btn btn-primary">Agregar nuevo videojuego</button>
+
+    <!-- Formulario de creación -->
+    <div id="addForm" style="display: none;">
+        <h3>Agregar nuevo videojuego</h3>
+        <form id="createForm" method="post">
+            <div class="form-group">
+                <label for="title">Título:</label>
+                <input type="text" id="title" name="title" required />
+            </div>
+            <div class="form-group">
+                <label for="platform">Plataforma:</label>
+                <input type="text" id="platform" name="platform" required />
+            </div>
+            <div class="form-group">
+                <label for="genre">Género:</label>
+                <input type="text" id="genre" name="genre" required />
+            </div>
+            <button type="submit" class="btn btn-primary">Guardar</button>
+            <button id="btnCancel" class="btn btn-danger">Cancelar</button>
+        </form>
+    </div>
+
+    <!-- Tabla de videojuegos -->
+    <table id="videoGamesTable" class="table">
+        <thead>
+            <tr>
+                <th>Título</th>
+                <th>Plataforma</th>
+                <th>Género</th>
+                <th>Acciones</th>
+            </tr>
+        </thead>
+        <tbody>
+            <!-- Aquí se cargarán los registros dinámicamente -->
+        </tbody>
+    </table>
+
+    <!-- Scripts -->
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="~/js/Mant_Juegos.js"></script>
+}
+else
+{
+    <h1>Acceso denegado</h1>
+    <p>Esta página solo está disponible para administradores.</p>
+}

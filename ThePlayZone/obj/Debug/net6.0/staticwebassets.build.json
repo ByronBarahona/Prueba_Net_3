@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "6soLzaAyNuhwba49dafnk5/+ijZw56WkG+cCLoiZ050=",
+  "Hash": "MiUuFDM8agiV5pNvyIadXKyBa/NeVRtJZJbRSe1L4ZI=",
   "Source": "ThePlayZone",
   "BasePath": "_content/ThePlayZone",
   "Mode": "Default",
@@ -102,12 +102,12 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\barah\\OneDrive\\Desktop\\Unidad_3\\ThePlayZone\\ThePlayZone\\wwwroot\\Imagenes\\Call_Of_Duty.jpg",
+      "Identity": "C:\\Users\\barah\\OneDrive\\Desktop\\Unidad_3\\ThePlayZone\\ThePlayZone\\wwwroot\\Imagenes\\Juegos\\Call_Of_Duty.jpg",
       "SourceId": "ThePlayZone",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\barah\\OneDrive\\Desktop\\Unidad_3\\ThePlayZone\\ThePlayZone\\wwwroot\\",
       "BasePath": "_content/ThePlayZone",
-      "RelativePath": "Imagenes/Call_Of_Duty.jpg",
+      "RelativePath": "Imagenes/Juegos/Call_Of_Duty.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -116,15 +116,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Imagenes\\Call_Of_Duty.jpg"
+      "OriginalItemSpec": "wwwroot\\Imagenes\\Juegos\\Call_Of_Duty.jpg"
     },
     {
-      "Identity": "C:\\Users\\barah\\OneDrive\\Desktop\\Unidad_3\\ThePlayZone\\ThePlayZone\\wwwroot\\Imagenes\\GTAV.jpg",
+      "Identity": "C:\\Users\\barah\\OneDrive\\Desktop\\Unidad_3\\ThePlayZone\\ThePlayZone\\wwwroot\\Imagenes\\Juegos\\GTAV.jpg",
       "SourceId": "ThePlayZone",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\barah\\OneDrive\\Desktop\\Unidad_3\\ThePlayZone\\ThePlayZone\\wwwroot\\",
       "BasePath": "_content/ThePlayZone",
-      "RelativePath": "Imagenes/GTAV.jpg",
+      "RelativePath": "Imagenes/Juegos/GTAV.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -133,15 +133,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Imagenes\\GTAV.jpg"
+      "OriginalItemSpec": "wwwroot\\Imagenes\\Juegos\\GTAV.jpg"
     },
     {
-      "Identity": "C:\\Users\\barah\\OneDrive\\Desktop\\Unidad_3\\ThePlayZone\\ThePlayZone\\wwwroot\\Imagenes\\PC_Gamer.jpg",
+      "Identity": "C:\\Users\\barah\\OneDrive\\Desktop\\Unidad_3\\ThePlayZone\\ThePlayZone\\wwwroot\\Imagenes\\Juegos\\Pubg.jpg",
       "SourceId": "ThePlayZone",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\barah\\OneDrive\\Desktop\\Unidad_3\\ThePlayZone\\ThePlayZone\\wwwroot\\",
       "BasePath": "_content/ThePlayZone",
-      "RelativePath": "Imagenes/PC_Gamer.jpg",
+      "RelativePath": "Imagenes/Juegos/Pubg.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -150,15 +150,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Imagenes\\PC_Gamer.jpg"
+      "OriginalItemSpec": "wwwroot\\Imagenes\\Juegos\\Pubg.jpg"
     },
     {
-      "Identity": "C:\\Users\\barah\\OneDrive\\Desktop\\Unidad_3\\ThePlayZone\\ThePlayZone\\wwwroot\\Imagenes\\PS5.jpg",
+      "Identity": "C:\\Users\\barah\\OneDrive\\Desktop\\Unidad_3\\ThePlayZone\\ThePlayZone\\wwwroot\\Imagenes\\Plataformas\\PC_Gamer.jpg",
       "SourceId": "ThePlayZone",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\barah\\OneDrive\\Desktop\\Unidad_3\\ThePlayZone\\ThePlayZone\\wwwroot\\",
       "BasePath": "_content/ThePlayZone",
-      "RelativePath": "Imagenes/PS5.jpg",
+      "RelativePath": "Imagenes/Plataformas/PC_Gamer.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -167,15 +167,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Imagenes\\PS5.jpg"
+      "OriginalItemSpec": "wwwroot\\Imagenes\\Plataformas\\PC_Gamer.jpg"
     },
     {
-      "Identity": "C:\\Users\\barah\\OneDrive\\Desktop\\Unidad_3\\ThePlayZone\\ThePlayZone\\wwwroot\\Imagenes\\Pubg.jpg",
+      "Identity": "C:\\Users\\barah\\OneDrive\\Desktop\\Unidad_3\\ThePlayZone\\ThePlayZone\\wwwroot\\Imagenes\\Plataformas\\PS5.jpg",
       "SourceId": "ThePlayZone",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\barah\\OneDrive\\Desktop\\Unidad_3\\ThePlayZone\\ThePlayZone\\wwwroot\\",
       "BasePath": "_content/ThePlayZone",
-      "RelativePath": "Imagenes/Pubg.jpg",
+      "RelativePath": "Imagenes/Plataformas/PS5.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -184,15 +184,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Imagenes\\Pubg.jpg"
+      "OriginalItemSpec": "wwwroot\\Imagenes\\Plataformas\\PS5.jpg"
     },
     {
-      "Identity": "C:\\Users\\barah\\OneDrive\\Desktop\\Unidad_3\\ThePlayZone\\ThePlayZone\\wwwroot\\Imagenes\\Switch.jpg",
+      "Identity": "C:\\Users\\barah\\OneDrive\\Desktop\\Unidad_3\\ThePlayZone\\ThePlayZone\\wwwroot\\Imagenes\\Plataformas\\Switch.jpg",
       "SourceId": "ThePlayZone",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\barah\\OneDrive\\Desktop\\Unidad_3\\ThePlayZone\\ThePlayZone\\wwwroot\\",
       "BasePath": "_content/ThePlayZone",
-      "RelativePath": "Imagenes/Switch.jpg",
+      "RelativePath": "Imagenes/Plataformas/Switch.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -201,15 +201,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Imagenes\\Switch.jpg"
+      "OriginalItemSpec": "wwwroot\\Imagenes\\Plataformas\\Switch.jpg"
     },
     {
-      "Identity": "C:\\Users\\barah\\OneDrive\\Desktop\\Unidad_3\\ThePlayZone\\ThePlayZone\\wwwroot\\Imagenes\\xbox.jpg",
+      "Identity": "C:\\Users\\barah\\OneDrive\\Desktop\\Unidad_3\\ThePlayZone\\ThePlayZone\\wwwroot\\Imagenes\\Plataformas\\xbox.jpg",
       "SourceId": "ThePlayZone",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\barah\\OneDrive\\Desktop\\Unidad_3\\ThePlayZone\\ThePlayZone\\wwwroot\\",
       "BasePath": "_content/ThePlayZone",
-      "RelativePath": "Imagenes/xbox.jpg",
+      "RelativePath": "Imagenes/Plataformas/xbox.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -218,7 +218,58 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Imagenes\\xbox.jpg"
+      "OriginalItemSpec": "wwwroot\\Imagenes\\Plataformas\\xbox.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\barah\\OneDrive\\Desktop\\Unidad_3\\ThePlayZone\\ThePlayZone\\wwwroot\\Imagenes\\Varios\\facebook.png",
+      "SourceId": "ThePlayZone",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\barah\\OneDrive\\Desktop\\Unidad_3\\ThePlayZone\\ThePlayZone\\wwwroot\\",
+      "BasePath": "_content/ThePlayZone",
+      "RelativePath": "Imagenes/Varios/facebook.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Imagenes\\Varios\\facebook.png"
+    },
+    {
+      "Identity": "C:\\Users\\barah\\OneDrive\\Desktop\\Unidad_3\\ThePlayZone\\ThePlayZone\\wwwroot\\Imagenes\\Varios\\instagram.png",
+      "SourceId": "ThePlayZone",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\barah\\OneDrive\\Desktop\\Unidad_3\\ThePlayZone\\ThePlayZone\\wwwroot\\",
+      "BasePath": "_content/ThePlayZone",
+      "RelativePath": "Imagenes/Varios/instagram.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Imagenes\\Varios\\instagram.png"
+    },
+    {
+      "Identity": "C:\\Users\\barah\\OneDrive\\Desktop\\Unidad_3\\ThePlayZone\\ThePlayZone\\wwwroot\\Imagenes\\Varios\\signo-de-twitter.png",
+      "SourceId": "ThePlayZone",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\barah\\OneDrive\\Desktop\\Unidad_3\\ThePlayZone\\ThePlayZone\\wwwroot\\",
+      "BasePath": "_content/ThePlayZone",
+      "RelativePath": "Imagenes/Varios/signo-de-twitter.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Imagenes\\Varios\\signo-de-twitter.png"
     },
     {
       "Identity": "C:\\Users\\barah\\OneDrive\\Desktop\\Unidad_3\\ThePlayZone\\ThePlayZone\\wwwroot\\js\\Login.js",
@@ -236,6 +287,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\Login.js"
+    },
+    {
+      "Identity": "C:\\Users\\barah\\OneDrive\\Desktop\\Unidad_3\\ThePlayZone\\ThePlayZone\\wwwroot\\js\\Mant_Juegos.js",
+      "SourceId": "ThePlayZone",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\barah\\OneDrive\\Desktop\\Unidad_3\\ThePlayZone\\ThePlayZone\\wwwroot\\",
+      "BasePath": "_content/ThePlayZone",
+      "RelativePath": "js/Mant_Juegos.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\Mant_Juegos.js"
     },
     {
       "Identity": "C:\\Users\\barah\\OneDrive\\Desktop\\Unidad_3\\ThePlayZone\\ThePlayZone\\wwwroot\\js\\site.js",

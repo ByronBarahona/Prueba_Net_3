@@ -5,32 +5,44 @@
       "PackagePath": "staticwebassets\\ThePlayZone.bundle.scp.css"
     },
     {
-      "Id": "C:\\Users\\barah\\OneDrive\\Desktop\\Unidad_3\\ThePlayZone\\ThePlayZone\\wwwroot\\Imagenes\\Call_Of_Duty.jpg",
-      "PackagePath": "staticwebassets\\Imagenes\\Call_Of_Duty.jpg"
+      "Id": "C:\\Users\\barah\\OneDrive\\Desktop\\Unidad_3\\ThePlayZone\\ThePlayZone\\wwwroot\\Imagenes\\Juegos\\Call_Of_Duty.jpg",
+      "PackagePath": "staticwebassets\\Imagenes\\Juegos\\Call_Of_Duty.jpg"
     },
     {
-      "Id": "C:\\Users\\barah\\OneDrive\\Desktop\\Unidad_3\\ThePlayZone\\ThePlayZone\\wwwroot\\Imagenes\\GTAV.jpg",
-      "PackagePath": "staticwebassets\\Imagenes\\GTAV.jpg"
+      "Id": "C:\\Users\\barah\\OneDrive\\Desktop\\Unidad_3\\ThePlayZone\\ThePlayZone\\wwwroot\\Imagenes\\Juegos\\GTAV.jpg",
+      "PackagePath": "staticwebassets\\Imagenes\\Juegos\\GTAV.jpg"
     },
     {
-      "Id": "C:\\Users\\barah\\OneDrive\\Desktop\\Unidad_3\\ThePlayZone\\ThePlayZone\\wwwroot\\Imagenes\\PC_Gamer.jpg",
-      "PackagePath": "staticwebassets\\Imagenes\\PC_Gamer.jpg"
+      "Id": "C:\\Users\\barah\\OneDrive\\Desktop\\Unidad_3\\ThePlayZone\\ThePlayZone\\wwwroot\\Imagenes\\Juegos\\Pubg.jpg",
+      "PackagePath": "staticwebassets\\Imagenes\\Juegos\\Pubg.jpg"
     },
     {
-      "Id": "C:\\Users\\barah\\OneDrive\\Desktop\\Unidad_3\\ThePlayZone\\ThePlayZone\\wwwroot\\Imagenes\\PS5.jpg",
-      "PackagePath": "staticwebassets\\Imagenes\\PS5.jpg"
+      "Id": "C:\\Users\\barah\\OneDrive\\Desktop\\Unidad_3\\ThePlayZone\\ThePlayZone\\wwwroot\\Imagenes\\Plataformas\\PC_Gamer.jpg",
+      "PackagePath": "staticwebassets\\Imagenes\\Plataformas\\PC_Gamer.jpg"
     },
     {
-      "Id": "C:\\Users\\barah\\OneDrive\\Desktop\\Unidad_3\\ThePlayZone\\ThePlayZone\\wwwroot\\Imagenes\\Pubg.jpg",
-      "PackagePath": "staticwebassets\\Imagenes\\Pubg.jpg"
+      "Id": "C:\\Users\\barah\\OneDrive\\Desktop\\Unidad_3\\ThePlayZone\\ThePlayZone\\wwwroot\\Imagenes\\Plataformas\\PS5.jpg",
+      "PackagePath": "staticwebassets\\Imagenes\\Plataformas\\PS5.jpg"
     },
     {
-      "Id": "C:\\Users\\barah\\OneDrive\\Desktop\\Unidad_3\\ThePlayZone\\ThePlayZone\\wwwroot\\Imagenes\\Switch.jpg",
-      "PackagePath": "staticwebassets\\Imagenes\\Switch.jpg"
+      "Id": "C:\\Users\\barah\\OneDrive\\Desktop\\Unidad_3\\ThePlayZone\\ThePlayZone\\wwwroot\\Imagenes\\Plataformas\\Switch.jpg",
+      "PackagePath": "staticwebassets\\Imagenes\\Plataformas\\Switch.jpg"
     },
     {
-      "Id": "C:\\Users\\barah\\OneDrive\\Desktop\\Unidad_3\\ThePlayZone\\ThePlayZone\\wwwroot\\Imagenes\\xbox.jpg",
-      "PackagePath": "staticwebassets\\Imagenes\\xbox.jpg"
+      "Id": "C:\\Users\\barah\\OneDrive\\Desktop\\Unidad_3\\ThePlayZone\\ThePlayZone\\wwwroot\\Imagenes\\Plataformas\\xbox.jpg",
+      "PackagePath": "staticwebassets\\Imagenes\\Plataformas\\xbox.jpg"
+    },
+    {
+      "Id": "C:\\Users\\barah\\OneDrive\\Desktop\\Unidad_3\\ThePlayZone\\ThePlayZone\\wwwroot\\Imagenes\\Varios\\facebook.png",
+      "PackagePath": "staticwebassets\\Imagenes\\Varios\\facebook.png"
+    },
+    {
+      "Id": "C:\\Users\\barah\\OneDrive\\Desktop\\Unidad_3\\ThePlayZone\\ThePlayZone\\wwwroot\\Imagenes\\Varios\\instagram.png",
+      "PackagePath": "staticwebassets\\Imagenes\\Varios\\instagram.png"
+    },
+    {
+      "Id": "C:\\Users\\barah\\OneDrive\\Desktop\\Unidad_3\\ThePlayZone\\ThePlayZone\\wwwroot\\Imagenes\\Varios\\signo-de-twitter.png",
+      "PackagePath": "staticwebassets\\Imagenes\\Varios\\signo-de-twitter.png"
     },
     {
       "Id": "C:\\Users\\barah\\OneDrive\\Desktop\\Unidad_3\\ThePlayZone\\ThePlayZone\\wwwroot\\css\\Login.css",
@@ -47,6 +59,10 @@
     {
       "Id": "C:\\Users\\barah\\OneDrive\\Desktop\\Unidad_3\\ThePlayZone\\ThePlayZone\\wwwroot\\js\\Login.js",
       "PackagePath": "staticwebassets\\js\\Login.js"
+    },
+    {
+      "Id": "C:\\Users\\barah\\OneDrive\\Desktop\\Unidad_3\\ThePlayZone\\ThePlayZone\\wwwroot\\js\\Mant_Juegos.js",
+      "PackagePath": "staticwebassets\\js\\Mant_Juegos.js"
     },
     {
       "Id": "C:\\Users\\barah\\OneDrive\\Desktop\\Unidad_3\\ThePlayZone\\ThePlayZone\\wwwroot\\js\\site.js",

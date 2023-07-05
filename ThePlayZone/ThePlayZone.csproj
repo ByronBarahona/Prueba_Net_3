@@ -7,17 +7,13 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="wwwroot\Imagenes\" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <None Include="wwwroot\Imagenes\Call_Of_Duty.jpg" />
-    <None Include="wwwroot\Imagenes\GTAV.jpg" />
-    <None Include="wwwroot\Imagenes\PC_Gamer.jpg" />
-    <None Include="wwwroot\Imagenes\PS5.jpg" />
-    <None Include="wwwroot\Imagenes\Pubg.jpg" />
-    <None Include="wwwroot\Imagenes\Switch.jpg" />
-    <None Include="wwwroot\Imagenes\xbox.jpg" />
+    <None Include="wwwroot\Imagenes\Juegos\Call_Of_Duty.jpg" />
+    <None Include="wwwroot\Imagenes\Juegos\GTAV.jpg" />
+    <None Include="wwwroot\Imagenes\Plataformas\PC_Gamer.jpg" />
+    <None Include="wwwroot\Imagenes\Plataformas\PS5.jpg" />
+    <None Include="wwwroot\Imagenes\Juegos\Pubg.jpg" />
+    <None Include="wwwroot\Imagenes\Plataformas\Switch.jpg" />
+    <None Include="wwwroot\Imagenes\Plataformas\xbox.jpg" />
   </ItemGroup>
 
 </Project>
