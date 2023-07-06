@@ -1,0 +1,41 @@
+﻿@{
+    ViewBag.Title = "Carrito de compra";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Carrito de compra</h1>
+
+@if (ViewBag.CartItems != null && ViewBag.CartItems.Count > 0)
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Producto</th>
+                <th>Precio</th>
+                <th>Cantidad</th>
+                <th>Subtotal</th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in ViewBag.CartItems)
+            {
+                <tr>
+                    <td>@item.ProductName</td>
+                    <td>@item.Price</td>
+                    <td>@item.Quantity</td>
+                    <td>@(item.Price * item.Quantity)</td>
+                    <td><a href="/Cart/RemoveItem?id=@item.Id">Eliminar</a></td>
+                </tr>
+            }
+        </tbody>
+    </table>
+
+    <p>Total: @ViewBag.CartTotal</p>
+
+    <a href="/Cart/Checkout" class="btn btn-primary">Realizar pago</a>
+}
+else
+{
+    <p>No hay productos en el carrito.</p>
+}

@@ -1,0 +1,23 @@
+﻿@{
+    ViewBag.Title = "Pago";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Pago</h1>
+
+<!-- Aquí iría el formulario de pago -->
+<form id="paymentForm" method="post" action="/Cart/ProcessPayment">
+    <div class="form-group">
+        <label for="cardNumber">Número de tarjeta:</label>
+        <input type="text" id="cardNumber" name="cardNumber" required />
+    </div>
+    <div class="form-group">
+        <label for="expirationDate">Fecha de vencimiento:</label>
+        <input type="text" id="expirationDate" name="expirationDate" required />
+    </div>
+    <div class="form-group">
+        <label for="cvv">CVV:</label>
+        <input type="text" id="cvv" name="cvv" required />
+    </div>
+    <button type="submit" class="btn btn-primary">Realizar pago</button>
+</form>
