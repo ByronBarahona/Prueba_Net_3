@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "MiUuFDM8agiV5pNvyIadXKyBa/NeVRtJZJbRSe1L4ZI=",
+  "Hash": "R+V+7mlIE/jTnTmE4lzMUDQBqkg002B9/1R5bZoI064=",
   "Source": "ThePlayZone",
   "BasePath": "_content/ThePlayZone",
   "Mode": "Default",
@@ -151,6 +151,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Imagenes\\Juegos\\Pubg.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\barah\\OneDrive\\Desktop\\Unidad_3\\ThePlayZone\\ThePlayZone\\wwwroot\\Imagenes\\Logo\\Logo.png",
+      "SourceId": "ThePlayZone",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\barah\\OneDrive\\Desktop\\Unidad_3\\ThePlayZone\\ThePlayZone\\wwwroot\\",
+      "BasePath": "_content/ThePlayZone",
+      "RelativePath": "Imagenes/Logo/Logo.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Imagenes\\Logo\\Logo.png"
     },
     {
       "Identity": "C:\\Users\\barah\\OneDrive\\Desktop\\Unidad_3\\ThePlayZone\\ThePlayZone\\wwwroot\\Imagenes\\Plataformas\\PC_Gamer.jpg",

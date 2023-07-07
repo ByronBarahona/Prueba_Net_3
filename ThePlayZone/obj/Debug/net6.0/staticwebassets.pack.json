@@ -17,6 +17,10 @@
       "PackagePath": "staticwebassets\\Imagenes\\Juegos\\Pubg.jpg"
     },
     {
+      "Id": "C:\\Users\\barah\\OneDrive\\Desktop\\Unidad_3\\ThePlayZone\\ThePlayZone\\wwwroot\\Imagenes\\Logo\\Logo.png",
+      "PackagePath": "staticwebassets\\Imagenes\\Logo\\Logo.png"
+    },
+    {
       "Id": "C:\\Users\\barah\\OneDrive\\Desktop\\Unidad_3\\ThePlayZone\\ThePlayZone\\wwwroot\\Imagenes\\Plataformas\\PC_Gamer.jpg",
       "PackagePath": "staticwebassets\\Imagenes\\Plataformas\\PC_Gamer.jpg"
     },
